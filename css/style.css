@@ -1,0 +1,73 @@
+/*
+font-family: 'Baloo Bhaina', cursive;
+font-family: 'David Libre', serif;
+font-family: 'Slabo 27px', serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Yatra One', cursive;
+font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Shadows Into Light', cursive;
+*/
+
+#contenidos
+{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	background: purple;
+}
+
+body
+{
+	background-image: url(../img/fondo.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1
+{
+	font-family: 'Indie Flower', cursive;
+	margin-left: 10px;
+	font-size: 60px;
+	text-align: center; 
+}
+
+h2
+{
+	font-family: 'Shadows Into Light', cursive;
+	margin-left: 10px;
+	font-size: 20px;
+	text-align: center; 
+}
+
+header 
+{
+	width: 1000px;
+	height: 120px;
+	background: pink;	
+}
+
+nav
+{
+	width: 1000px;
+	height: 50px;
+	background: red;
+}
+
+ul
+{
+	margin: auto;
+	padding-top: 3px
+}
+
+li
+{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+	background: black;
+	margin: 3px;
+}
