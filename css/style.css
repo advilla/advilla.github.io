@@ -46,6 +46,14 @@ h2
 	text-align: center; 
 }
 
+h3
+{
+	font-family: 'Playfair Display', serif;
+	color: white;
+	font-size: 10px;
+	text-align: center; 
+}
+
 header 
 {
 	font-color: white;
@@ -67,7 +75,7 @@ nav
 ul
 {
 	margin: auto;
-	padding-top: 4px
+	padding-top: 4px;
 }
 
 li
@@ -79,6 +87,45 @@ li
 	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset;
+}
+
+section
+{
+	width: 700px;
+	background: lavender;
+	height: 600px;
+	float: left;
+	border-radius: 10px;
+}
+
+aside
+{
+	width: 280px;
+	background:darkgray;
+	height: 600px;
+	float: left;
+	margin-left: 10px;
+	border-radius: 10px;
+}
+
+p
+{
+	font-size: 16px;
+	font-weight: bolder;
+	line-height: 20px;
+	padding: 10px;
+	text-align: justify;
+}
+
+footer
+{
+	width: 1000px;
+	height: 30px;
+	background: darkorange;
+	float: left;
+	margin-top: 2px;
+	margin-bottom: 20px;
+	border-radius: 10px;
 }
 
 /*CLASES*/
