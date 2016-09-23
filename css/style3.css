@@ -1,17 +1,6 @@
-	/*
-font-family: 'Baloo Bhaina', cursive;
+/*font-family: 'Baloo Bhaina', cursive;
 font-family: 'David Libre', serif;
-font-family: 'Slabo 27px', serif;
-font-family: 'Roboto Condensed', sans-serif;
-font-family: 'Raleway', sans-serif;
-font-family: 'Yatra One', cursive;
-font-family: 'PT Sans Narrow', sans-serif;
-font-family: 'Playfair Display', serif;
-font-family: 'Indie Flower', cursive;
-font-family: 'Shadows Into Light', cursive;
 */
-
-/*ETIQUETAS*/
 
 #contenidos
 {
@@ -22,55 +11,52 @@ font-family: 'Shadows Into Light', cursive;
 	/*background: purple;*/
 }
 
-body
-{
-	background-image: url(../img/fondo.png);
-	background-repeat: no-repeat;
-	background-size: cover;
+
+/*ETIQUETAS*/
+body{
+background-image: url(../img/fondo.png);
+background-repeat: no-repeat;
+background-size: cover;
 }
 
-h1
-{
-	font-family: 'Indie Flower', cursive;
-	color: Maroon;
-	margin-left: 10px;
-	font-size: 40px;
-	text-align: center; 
+h1{
+font-family: 'Shadows Into Light', cursive;
+color: white;
+margin-left: 10px;
+font-size: 60px;
+text-align: center; 
 }
 
-h2
-{	
-	font-family: 'Shadows Into Light', cursive;
-	color: Maroon;
-	margin-left: 10px;
-	font-size: 20px;
-	text-align: left; 
+h2{	
+font-family: 'Indie Flower', cursive;
+color: white;
+margin-left: 10px;
+font-size: 20px;
+text-align: left; 
 }
 
-h3
-{
-	font-family: 'Playfair Display', serif;
-	color: white;
-	font-size: 10px;
-	text-align: center; 
+h3{
+font-family: 'Playfair Display', serif;
+color: white;
+font-size: 10px;
+text-align: center; 
 }
 
-header 
-{
-	font-color: white;
-	color: DarkOrchid;
+
+header{
+	/*font-color: white;
+	color: white;*/
 	width: 1000px;
-	height: 180px;
-	background: Darkgray;
-	/*background: rgba(255, 255, 255, 0.70);*/
-	border-radius: 10px;
+	height: 120px;
+	background: rgba(255, 255, 255, 0.70);
+	/*border-radius: 10px;	*/
 }
 
 nav
 {
 	width: 1000px;
 	height: 50px;
-	background: Maroon;
+	background: red;
 	border-radius: 10px;
 }
 
@@ -86,8 +72,7 @@ li
 	list-style-type: none;
 	padding: 10px;
 	background: black;
-	margin: 1px;
-	margin-top: 1px;
+	margin: 3px;
 	border-radius: 10px;
 	box-shadow: 0 0 10px white inset;
 }
@@ -95,17 +80,16 @@ li
 section
 {
 	width: 700px;
-	background: darkgray;
+	background: lavender;
 	height: 600px;
 	float: left;
-	margin-top: 1px;
 	border-radius: 10px;
 }
 
 aside
 {
 	width: 280px;
-	background:gray;
+	background:darkgray;
 	height: 600px;
 	float: left;
 	margin-left: 10px;
