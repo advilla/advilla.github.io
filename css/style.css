@@ -67,6 +67,12 @@ header
 	text-align: center; 
 }
 
+img
+{
+	border-radius: 10px;
+	text-align: center; 
+}
+
 nav
 {
 	width: 1000px;
