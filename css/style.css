@@ -60,10 +60,11 @@ header
 	font-color: white;
 	color: DarkOrchid;
 	width: 1000px;
-	height: 130px;
+	height: 230px;
 	background: Darkgray;
 	/*background: rgba(255, 255, 255, 0.70);*/
 	border-radius: 10px;
+	text-align: center; 
 }
 
 nav
