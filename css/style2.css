@@ -264,6 +264,25 @@ div {
 	left: 516px;
 	top: 1494px;
 }
+	    #apDiv28 {
+	position: absolute;
+	width: 200px;
+	height: 115px;
+	z-index: 7;
+	left: 729px;
+	top: 1000px;
+}
+ 		#apDiv29 {
+	position: absolute;
+	width: 260px;
+	height: 24px;
+	z-index: 5;
+	left: 728px;
+	top: 890px;
+	color: #FFF;
+	font-size: 18px;
+	font-weight: normal;
+}
 #contenidos{
 	width: 1000px;
 	height: auto;
@@ -345,7 +364,7 @@ section{
 aside{
 	width: 280px;
 	background: white;
-	height: 720px;
+	height: 1200px;
 	float: left;
 	margin-left: 7px;
 	margin-top: 7px;
