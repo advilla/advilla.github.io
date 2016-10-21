@@ -270,7 +270,7 @@ div {
 	height: 115px;
 	z-index: 7;
 	left: 729px;
-	top: 1000px;
+	top: 995px;
 }
  		#apDiv29 {
 	position: absolute;
@@ -279,18 +279,18 @@ div {
 	z-index: 5;
 	left: 728px;
 	top: 965px;
-	color: black;
+	color: #FFF;
 	font-size: 18px;
 	font-weight: normal;
 }
         #apDiv30 {
 	position: absolute;
 	width: 260px;
-	height: 24px;
+	height: 26px;
 	z-index: 4;
 	left: 729px;
-	top: 965px;
-	background-color: red;
+	top: 963px;
+	background-color: #003f5e;
 }
 #contenidos{
 	width: 1000px;
