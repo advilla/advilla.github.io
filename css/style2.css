@@ -134,7 +134,7 @@ div {
 	height: 41px;
 	z-index: 2;
 	left: 64px;
-	top: 1457px;
+	top: 1210px;
 }
         #apDiv14 {
 	position: absolute;
@@ -151,7 +151,7 @@ div {
 	height: 24px;
 	z-index: 4;
 	left: 729px;
-	top: 721px;
+	top: 701px;
 	background-color: #003f5e;
 }
         #apDiv16 {
@@ -160,7 +160,7 @@ div {
 	height: 24px;
 	z-index: 5;
 	left: 728px;
-	top: 724px;
+	top: 704px;
 	color: #FFF;
 	font-size: 18px;
 	font-weight: normal;
@@ -179,7 +179,7 @@ div {
 	height: 115px;
 	z-index: 7;
 	left: 729px;
-	top: 752px;
+	top: 732px;
 }
         #apDiv19 {
 	position: absolute;
@@ -240,7 +240,7 @@ div {
 	height: 30px;
 	z-index: 10;
 	left: 436px;
-	top: 1462px; /*980px;*/
+	top: 1210px; /*980px;*/
 	font-size: 12px;
 	color: #FFF;
 }
@@ -250,7 +250,7 @@ div {
 	height: 26px;
 	z-index: 11;
 	left: 328px;
-	top: 1478px;
+	top: 1226px;
 	font-size: 12px;
 	color: #FFF;
 }
@@ -262,7 +262,7 @@ div {
 	font-size: 12px;
 	color: #FFF;
 	left: 516px;
-	top: 1494px;
+	top: 1242px;
 }
 	    #apDiv28 {
 	position: absolute;
@@ -270,7 +270,7 @@ div {
 	height: 115px;
 	z-index: 7;
 	left: 729px;
-	top: 995px;
+	top: 975px;
 }
  		#apDiv29 {
 	position: absolute;
@@ -278,7 +278,7 @@ div {
 	height: 24px;
 	z-index: 5;
 	left: 728px;
-	top: 965px;
+	top: 945px;
 	color: #FFF;
 	font-size: 18px;
 	font-weight: normal;
@@ -289,9 +289,21 @@ div {
 	height: 26px;
 	z-index: 4;
 	left: 729px;
-	top: 963px;
+	top: 943px;
 	background-color: #003f5e;
 }
+		#apDiv31 {
+	position: absolute;
+	width: 260px;
+	height: 24px;
+	z-index: 5;
+	left: 728px;
+	top: 1155px;
+	color: #003f5e;
+	font-size: 10px;
+	font-weight: normal;
+}
+
 #contenidos{
 	width: 1000px;
 	height: auto;
@@ -365,7 +377,7 @@ li{
 section{
 	width: 713px;
 	background: white;
-	height: 1200px;
+	height: 950px;
 	float: left;
 	margin-top: 7px;
 	border-radius: 10px 0px 0px 0px;
@@ -373,7 +385,7 @@ section{
 aside{
 	width: 280px;
 	background: white;
-	height: 1200px;
+	height: 950px;
 	float: left;
 	margin-left: 7px;
 	margin-top: 7px;
