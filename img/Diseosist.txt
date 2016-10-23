@@ -1,3 +1,5 @@
+<meta charset="UTF-8">
+
 DISEÑO DE SISTEMAS TI: 
 
 El diseño de un sistema de información produce los detalles que establecen la forma en la que el sistema cumplirá con los requisitos identificados durante la fase de análisis. Los especialistas en sistemas se refieren, con frecuencia, a esta etapa como “diseño lógico” en contraste con la del desarrollo del software, a la que denominan “diseño físico”
