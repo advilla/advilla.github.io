@@ -1,5 +1,8 @@
-<meta charset="UTF-8">
-
+   <!DOCTYPE html>
+<html lang="es" class"no-js">
+    <head>
+ <meta charset="UTF-8">
+<p>
 DISEÑO DE SISTEMAS TI: 
 
 El diseño de un sistema de información produce los detalles que establecen la forma en la que el sistema cumplirá con los requisitos identificados durante la fase de análisis. Los especialistas en sistemas se refieren, con frecuencia, a esta etapa como “diseño lógico” en contraste con la del desarrollo del software, a la que denominan “diseño físico”
@@ -13,3 +16,4 @@ Los documentos que contienen las especificaciones de diseño representan a este d
 Los diseñadores son los responsables de dar a los programadores las especificaciones de software completas y claramente delineadas. Una vez comenzada la fase de programación, los diseñadores contestan preguntas, aclaran dudas y manejan los problemas que enfrentan los programadores cuando utilizan las especificaciones de diseño.
 
 Senn James A, Análisis y diseño de sistemas de información segunda edición, 1992
+</p>
