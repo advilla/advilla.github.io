@@ -1,2 +1,0 @@
-# dise-o-de-sistemas-TI
-DISEÑO DE PAGINAS WEB TEMA DISEÑO DE SISTEMAS TI
